@@ -1,0 +1,1303 @@
+,Brand,Clockspeed,Model,Series
+0,Intel,2.3,,Core i5
+1,Intel,1.8,,Core i5
+2,Intel,2.5,,Core i5 7200U
+3,Intel,2.7,,Core i7
+4,Intel,3.1,,Core i5
+5,AMD,3GHz,9420,A9-Series
+6,Intel,2.2,,Core i7
+7,Intel,1.8,,Core i5
+8,Intel,1.8,,Core i7 8550U
+9,Intel,1.6,,Core i5 8250U
+10,Intel,2.5,,Core i5 7200U
+11,Intel,2,,Core i3 6006U
+12,Intel,2.8,,Core i7
+13,Intel,2,,Core i3 6006U
+14,Intel,1.2,,Core M m3
+15,Intel,2.3,,Core i5
+16,Intel,2.7,,Core i7 7500U
+17,Intel,2.9,,Core i7
+18,Intel,2.4,,Core i3 7100U
+19,Intel,1.6,,Core i5 8250U
+20,Intel,1.44,,Atom x5-Z8350
+21,Intel,2.5,,Core i5 7300HQ
+22,AMD,1.5GHz,E2-9000e,E-Series
+23,Intel,1.6,,Core i5 8250U
+24,Intel,1.8,,Core i7 8550U
+25,Intel,2,,Core i3 6006U
+26,Intel,1.6,,Core i5
+27,Intel,1.6,,Core i5 8250U
+28,Intel,1.9,,Core i7 8650U
+29,Intel,1.6,,Core i5 8250U
+30,Intel,1.44,,Atom x5-Z8300
+31,AMD,1.5GHz,E2-6110,E-Series
+32,AMD,2.5GHz,9220,A6-Series
+33,Intel,1.8,,Core i7 8550U
+34,Intel,1.6,,Core i5
+35,Intel,1.1,,Celeron Dual Core N3350
+36,Intel,2.7,,Core i3 7130U
+37,Intel,1.6,,Core i5 8250U
+38,Intel,2.5,,Core i5 7200U
+39,Intel,1.6,,Core i5 8250U
+40,Intel,2,,Core i3 6006U
+41,Intel,2.8,,Core i7 7700HQ
+42,Intel,2.5,,Core i5 7200U
+43,Intel,1.6,,Core i5 8250U
+44,Intel,1.6,,Core i5 8250U
+45,Intel,2.0,,Core i5
+46,Intel,2,,Core i3 6006U
+47,AMD,3GHz,1700,Ryzen
+48,Intel,2.5,,Core i5 7200U
+49,Intel,1.1,,Pentium Quad Core N4200
+50,Intel,1.44,,Atom x5-Z8550
+51,Intel,1.8,,Core i7 8550U
+52,AMD,2.5GHz,9220,A6-Series
+53,Intel,1.8,,Core i7 8550U
+54,Intel,2.4,,Core i3 7100U
+55,Intel,1.8,,Core i7 8550U
+56,Intel,2,,Core i3 6006U
+57,Intel,2.5,,Core i5 7200U
+58,Intel,2.8,,Core i7 7700HQ
+59,Intel,2,,Core i3 6006U
+60,Intel,1.8,,Core i7 8550U
+61,Intel,1.6,,Core i5 8250U
+62,Intel,2.7,,Core i3 7130U
+63,Intel,1.6,,Core i5 8250U
+64,Intel,2.5,,Core i5 7200U
+65,Intel,2.8,,Core i7 7700HQ
+66,Intel,2,,Core i3 6006U
+67,Intel,1.6,,Celeron Dual Core N3060
+68,Intel,2.5,,Core i5 7200U
+69,Intel,2.8,,Core i7 7700HQ
+70,Intel,2.5,,Core i5 7200U
+71,Intel,1.8,,Core i7 8550U
+72,Intel,1.8,,Core i7 8550U
+73,Intel,2.5,,Core i5 7300HQ
+74,Intel,2,,Core i3 6006U
+75,Intel,2.8,,Core i7 7700HQ
+76,Intel,2.5,,Core i5 7200U
+77,Intel,1.8,,Core i7 8550U
+78,Intel,2.7,,Core i3 7130U
+79,Intel,1.6,,Core i5 8250U
+80,Intel,1.6,,Core i5 8250U
+81,Intel,1.3,,Core i5
+82,Intel,1.6,,Core i5 8250U
+83,AMD,2.5GHz,9220,A6-Series
+84,AMD,3GHz,9420,A9-Series
+85,Intel,2.8,,Core i7 7700HQ
+86,Intel,1.8,,Core i7 8550U
+87,Intel,2.5,,Core i5 7200U
+88,Intel,2.8,,Core i7 7700HQ
+89,Intel,1.8,,Core i7 8550U
+90,AMD,3GHz,9830P,FX
+91,Intel,1.8,,Core i7 8550U
+92,Intel,1.8,,Core i7 8550U
+93,Intel,2.5,,Core i5 7300HQ
+94,Intel,2.7,,Core i7 7500U
+95,Intel,1.6,,Core i5 8250U
+96,Intel,2.7,,Core i7 7500U
+97,Intel,2,,Core i3 6006U
+98,Intel,2.4,,Core i3 7100U
+99,Intel,2.8,,Core i7 7700HQ
+100,Intel,2.7,,Core i7 7500U
+101,AMD,1.5GHz,E2-9000e,E-Series
+102,Intel,1.6,,Core i5 8250U
+103,Intel,2.7,,Core i7 7500U
+104,Intel,2.5,,Core i5 7200U
+105,Intel,2.5,,Core i5 7200U
+106,Intel,2,,Core i3 6006U
+107,Intel,2.7,,Core i7 7500U
+108,Intel,2.8,,Core i7 7700HQ
+109,Intel,2.7,,Core i7 7500U
+110,Intel,1.8,,Core i7 8550U
+111,Intel,2.4,,Core i7 7560U
+112,Intel,2.5,,Core i5 7200U
+113,Intel,1.6,,Core i5 8250U
+114,Intel,1.6,,Core i5 8250U
+115,Intel,1.6,,Core i5 8250U
+116,Intel,1.8,,Core i7 8550U
+117,Intel,1.8,,Core i7 8550U
+118,Intel,2,,Core i3 6006U
+119,Intel,1.8,,Core i7 8550U
+120,Intel,2.4,,Core i3 7100U
+121,Intel,2.8,,Core i7 7700HQ
+122,Intel,2.5,,Core i5 7200U
+123,Intel,1.8,,Core i7 8550U
+124,AMD,3GHz,9420,A9-Series
+125,Intel,1.6,,Celeron Dual Core N3060
+126,Intel,1.6,,Core i5 8250U
+127,AMD,1.5GHz,6110,E-Series
+128,Intel,1.8,,Core i7 8550U
+129,Intel,1.6,,Core i5 8250U
+130,Intel,2.5,,Core i5 7200U
+131,Intel,2,,Core i3 6006U
+132,Intel,1.8,,Core i7 8550U
+133,Intel,2.7,,Core i3 7130U
+134,Intel,2.7,,Core i7 7500U
+135,Intel,1.8,,Core i7 8550U
+136,Intel,1.1,,Celeron Dual Core N3350
+137,Intel,2.5,,Core i5 7300HQ
+138,Intel,2.5,,Core i5 7200U
+139,Intel,2.5,,Core i5 7200U
+140,Intel,2.7,,Core i3 7130U
+141,Intel,1.6,,Core i5 8250U
+142,Intel,2.8,,Core i7 7700HQ
+143,Intel,2.3,,Core i5 6200U
+144,AMD,2.5GHz,9220,A6-Series
+145,Intel,1.8,,Core i7 8550U
+146,Intel,1.2,,Core M 6Y75
+147,Intel,1.1,,Celeron Dual Core N3350
+148,Intel,2.8,,Core i7 7700HQ
+149,Intel,2,,Core i3 6006U
+150,Intel,2.8,,Core i7 7700HQ
+151,Intel,2.8,,Core i7 7700HQ
+152,Intel,2.5,,Core i5 7200U
+153,Intel,2.8,,Core i7 7700HQ
+154,Intel,2.7,,Core i5 7500U
+155,Intel,1.6,,Core i5 8250U
+156,Intel,2.4,,Core i3 7100U
+157,Intel,1.6,,Core i5 8250U
+158,Intel,1.8,,Core i7 8550U
+159,Intel,2.2,,Core i3 6006U
+160,AMD,3GHz,9420,A9-Series
+161,Intel,1.6,,Core i5 8250U
+162,Intel,1.6,,Core i5 8250U
+163,Intel,2.8,,Core i7 7700HQ
+164,Intel,1.1,,Celeron Dual Core N3350
+165,Intel,2.8,,Core i7 7700HQ
+166,Intel,1.1,,Pentium Quad Core N4200
+167,Intel,2.8,,Core i7 7700HQ
+168,Intel,1.6,,Core i5 8250U
+169,Intel,1.6,,Core i5 8250U
+170,Intel,2.5,,Core i5 7200U
+171,Intel,2.5,,Core i5 7200U
+172,AMD,2.9GHz,9220,A6-Series
+173,Intel,2.4,,Core i3 7100U
+174,Intel,1.6,,Core i5 8250U
+175,Intel,2.4,,Core i3 7100U
+176,Intel,2,,Core i3 6006U
+177,Intel,2.9,,Core i7 6920HQ
+178,Intel,2.5,,Core i5 7200U
+179,Intel,1.6,,Core i5 8250U
+180,Intel,1.8,,Core i7 8550U
+181,Intel,1.6,,Core i5 8250U
+182,Intel,1.8,,Core i7 8550U
+183,Intel,2.5,,Core i5 7200U
+184,Intel,1.6,,Core i5 8250U
+185,Intel,1.8,,Core i7 8550U
+186,Intel,2.8,,Core i7 7700HQ
+187,Intel,2.5,,Core i5 7300HQ
+188,Intel,1.2,,Core i5 7Y54
+189,Intel,1.8,,Core i7 8550U
+190,Intel,2.7,,Core i7 7500U
+191,Intel,1.1,,Celeron Dual Core N3350
+192,Intel,2.5,,Core i5 7200U
+193,Intel,1.6,,Core i5 8250U
+194,Intel,1.8,,Core i7 8550U
+195,Intel,1.6,,Core i5 8250U
+196,Intel,2.9,,Core i7 7820HK
+197,Intel,1.6,,Core i5 8250U
+198,Intel,2.8,,Core i7 7700HQ
+199,Intel,1.8,,Core i7 8550U
+200,Intel,2.8,,Core i7 7700HQ
+201,Intel,2.3,,Core i5 6200U
+202,Intel,2.7,,Core i7 7500U
+203,Intel,2.8,,Core i7 7700HQ
+204,Intel,3,,Xeon E3-1505M V6
+205,Intel,2.8,,Core i7 7700HQ
+206,Intel,2.4,,Core i3 7100U
+207,Intel,1.8,,Core i7 8550U
+208,Intel,1.8,,Core i7 8550U
+209,Intel,2.5,,Core i5 7200U
+210,Intel,2.8,,Core i7 7700HQ
+211,Intel,2.8,,Core i7 7700HQ
+212,Intel,2,,Core i3 6006U
+213,Intel,2.5,,Core i5 7200U
+214,Intel,2.7,,Core i7 7500U
+215,Intel,1.8,,Core i7 8550U
+216,Intel,2.5,,Core i5 7200U
+217,Intel,1.8,,Core i7 8550U
+218,Intel,1.6,,Core i5 8250U
+219,Intel,1.8,,Core i7 8550U
+220,Intel,1.6,,Core i5 8250U
+221,Intel,1.6,,Core i5 8250U
+222,Intel,2.5,,Core i7 6500U
+223,Intel,1.6,,Core i5 8250U
+224,Intel,2.8,,Core i7 7700HQ
+225,Intel,2.7,,Core i7 7500U
+226,Intel,2.7,,Core i7 7500U
+227,Intel,2.5,,Core i5 7200U
+228,Intel,2.5,,Core i5 7200U
+229,Intel,2.7,,Core i7 7500U
+230,Intel,2.4,,Core i3 7100U
+231,AMD,1.5GHz,9000e,E-Series
+232,Intel,2.8,,Core i7 7700HQ
+233,Intel,2.5,,Core i5 7200U
+234,Intel,2.3,,Core i5 6200U
+235,Intel,2.7,,Core i7 7500U
+236,Intel,2,,Core i3 6006U
+237,AMD,2.5GHz,A10-9620P,A10-Series
+238,Intel,2.9,,Core i7 7820HK
+239,Intel,2.5,,Core i5 7300HQ
+240,Intel,2,,Core i3 6006U
+241,Intel,1.8,,Core i7 8550U
+242,Intel,2.7,,Core i7 7500U
+243,Intel,2.5,,Core i5 7300HQ
+244,Intel,2.7,,Core i7 7500U
+245,Intel,1.8,,Core i7 8550U
+246,Intel,2.5,,Core i5 7200U
+247,Intel,2.9,,Core i7 7820HK
+248,Intel,1.6,,Core i5 8250U
+249,Intel,3.1,,Core i5
+250,Intel,1.8,,Core i7 8550U
+251,Intel,2.8,,Core i7 7700HQ
+252,AMD,3GHz,9420,A9-Series
+253,Intel,1.8,,Core i7 8550U
+254,Intel,2.7,,Core i3 7130U
+255,Intel,1.6,,Core i5 8250U
+256,AMD,2.5GHz,A6-9220,A6-Series
+257,Intel,1.8,,Core i7 8550U
+258,Intel,2.8,,Core i7 7700HQ
+259,Intel,2.8,,Core i7 7700HQ
+260,Intel,1.8,,Core i7 8550U
+261,Intel,2,,Core i3 6006U
+262,Intel,1.6,,Core i5 8250U
+263,Intel,2.5,,Core i5 7200U
+264,Intel,2.5,,Core i5 7200U
+265,Intel,1.6,,Core i5 8250U
+266,Intel,1.8,,Core i7 8550U
+267,Intel,2.5,,Core i5 7200U
+268,Intel,1.8,,Core i7 8550U
+269,Intel,1.8,,Core i7 8550U
+270,Intel,2.9,,Core i5
+271,AMD,3GHz,1700,Ryzen
+272,Intel,1.8,,Core i7 8550U
+273,Intel,2.6,,Core i7 6600U
+274,Intel,2.5,,Core i7 6500U
+275,Intel,2.7,,Core i7 7500U
+276,Intel,1.8,,Core i7 8550U
+277,Intel,1.8,,Core i7 8550U
+278,Intel,2,,Core i3 6006U
+279,Intel,1.8,,Core i7 8550U
+280,Intel,2.7,,Core i7 7500U
+281,Intel,2.0,,Core i3 6006U
+282,Intel,2.5,,Core i5 7300HQ
+283,Intel,2.5,,Core i5 7200U
+284,Intel,1.8,,Core i7 8550U
+285,Intel,2.7,,Core i7 7500U
+286,Intel,2.7,,Core i7 7500U
+287,Intel,2.5,,Core i5 7200U
+288,Intel,2.8,,Core i7 7700HQ
+289,Intel,2.7,,Core i7 7500U
+290,Intel,1.5,,Celeron Dual Core 3205U
+291,Intel,2.8,,Core i7 7700HQ
+292,Intel,2,,Core i3 6006U
+293,Intel,2.8,,Core i7 7700HQ
+294,Intel,1.6,,Core i5 8250U
+295,Intel,2.8,,Core i7 7700HQ
+296,Intel,2.8,,Core i7 7700HQ
+297,Intel,2.9,,Core i7 7820HQ
+298,AMD,2.4GHz,9600P,A10-Series
+299,Intel,2.7,,Core i7 7500U
+300,Intel,2.4,,Core i3 7100U
+301,Intel,2.8,,Core i7 7700HQ
+302,Intel,2.5,,Core i5 7200U
+303,Intel,2.5,,Core i5 7200U
+304,Intel,2.8,,Core i7 7700HQ
+305,Intel,1.1,,Pentium Quad Core N4200
+306,Intel,2.8,,Core i7 7600U
+307,Intel,2.5,,Core i7 6500U
+308,Intel,2.5,,Core i5 7200U
+309,Intel,2,,Core i3 6006U
+310,Intel,2.5,,Core i5 7200U
+311,Intel,1.8,,Core i7 8550U
+312,Intel,2.8,,Core i7 7700HQ
+313,AMD,2.2GHz,7410,A8-Series
+314,Intel,1.1,,Celeron Dual Core N3350
+315,Intel,1.6,,Core i5 8250U
+316,Intel,1.8,,Core i7 8550U
+317,Intel,1.6,,Celeron Dual Core 3855U
+318,Intel,2.5,,Core i5 7200U
+319,Intel,1.6,,Pentium Quad Core N3710
+320,Intel,2.7,,Core i7 7500U
+321,Intel,2.5,,Core i5 7200U
+322,Intel,2.7,,Core i7 7500U
+323,Intel,1.8,,Core i7 8550U
+324,AMD,2.7GHz,9720P,A12-Series
+325,Intel,1.1,,Celeron Dual Core N3350
+326,Intel,2.5,,Core i5 7200U
+327,Intel,2.7,,Core i7 7500U
+328,Intel,2.7,,Core i7 7500U
+329,Intel,2.8,,Core i7 7700HQ
+330,Intel,2.8,,Core i7 7700HQ
+331,Intel,2.5,,Core i5 7200U
+332,Intel,2.7,,Core i7 7500U
+333,Intel,2,,Core i3 6006U
+334,Intel,2.8,,Core i7 7700HQ
+335,Intel,2.6,,Core i5 7300U
+336,Intel,1.6,,Core i5 8250U
+337,Intel,2.5,,Core i5 7200U
+338,Intel,1.1,,Celeron Dual Core N3350
+339,Intel,1.6,,Core i5 8250U
+340,Intel,1.6,,Celeron Dual Core N3060
+341,AMD,3.6GHz,9720P,A12-Series
+342,Intel,2.4,,Core i3 7100U
+343,Intel,1.8,,Core i7 8550U
+344,Intel,1.8,,Core i7 8550U
+345,Intel,2.8,,Core i7 7700HQ
+346,Intel,1.6,,Celeron Dual Core N3060
+347,Intel,1.9,,Core i7 8650U
+348,Intel,1.1,,Celeron Dual Core N3350
+349,Intel,1.6,,Core i5 8250U
+350,Intel,2.8,,Core i7 7700HQ
+351,Intel,2.7,,Core i7 7500U
+352,Intel,2.8,,Core i7 7700HQ
+353,Intel,2.8,,Core i7 7700HQ
+354,Intel,2.5,,Core i7 6500U
+355,Intel,1.8,,Core i7 8550U
+356,Intel,1.1,,Celeron Dual Core N3350
+357,Intel,2.5,,Core i5 7300HQ
+358,Intel,2.5,,Core i5 7200U
+359,Intel,2.6,,Core i5 7300U
+360,Intel,2,,Core i3 6006U
+361,Intel,2.5,,Core i5 7200U
+362,Intel,2.5,,Core i5 7200U
+363,Intel,2.5,,Core i5 7200U
+364,Intel,2,,Core i3 6006U
+365,Intel,1.6,,Pentium Quad Core N3710
+366,Intel,1.6,,Core i5 8250U
+367,Intel,2.5,,Core i5 7300HQ
+368,Intel,2.7,,Core i7 7500U
+369,Intel,2.7,,Core i7 7500U
+370,Intel,2.7,,Core i7 7500U
+371,AMD,3GHz,9420,A9-Series
+372,AMD,3GHz,1700,Ryzen
+373,AMD,2.2GHz,7410,A8-Series
+374,Intel,1.8,,Core i7 8550U
+375,AMD,3GHz,9420,A9-Series
+376,Intel,1.1,,Celeron Quad Core N3450
+377,Intel,1.60,,Celeron Dual Core N3060
+378,Intel,1.1,,Celeron Dual Core N3350
+379,Intel,2.8,,Core i7 7700HQ
+380,Intel,2.8,,Core i7 7700HQ
+381,Intel,2,,Core i3 6006U
+382,Intel,2.8,,Core i7 7700HQ
+383,Intel,2.5,,Core i5 7200U
+384,Intel,2.7,,Core i7 7500U
+385,Intel,2.7,,Core i7 7500U
+386,Intel,2.4,,Core i3 7100U
+387,Intel,2.6,,Core i5 6440HQ
+388,Intel,2.7,,Core i7 6820HQ
+389,Intel,2.7,,Core i7 7500U
+390,Intel,2.8,,Core i7 7700HQ
+391,Intel,2.8,,Core i7 7700HQ
+392,Intel,1.6,,Core i5 8250U
+393,Intel,2.8,,Core i7 7700HQ
+394,Intel,2.7,,Core i7 7500U
+395,AMD,3GHz,9420,A9-Series
+396,Intel,1.8,,Core i7 8550U
+397,Intel,2.5,,Core i5 7200U
+398,Intel,2.8,,Core i7 7700HQ
+399,Intel,2.7,,Core i7 7500U
+400,Intel,1.1,,Celeron Dual Core N3350
+401,Intel,2.8,,Core i7 7700HQ
+402,Intel,1.6,,Core i5 8250U
+403,Intel,2.8,,Core i7 7700HQ
+404,Intel,2.8,,Core i7 7700HQ
+405,Intel,2.7,,Core i7 7500U
+406,Intel,2.5,,Core i7 6500U
+407,Intel,2.8,,Core i7 7600U
+408,Intel,2,,Core i3 6006U
+409,Intel,1.1,,Celeron Dual Core N3350
+410,Intel,2.8,,Core i7 7700HQ
+411,Intel,2.8,,Core i7 7700HQ
+412,Intel,2,,Core i3 6006U
+413,Intel,2.5,,Core i7 6500U
+414,Intel,2.5,,Core i5 7200U
+415,Intel,2.5,,Core i5 7200U
+416,Intel,2,,Core i3 6006U
+417,Intel,2.5,,Core i7 6500U
+418,Intel,2.5,,Core i5 7200U
+419,Intel,1.8,,Core i7 8550U
+420,Intel,2.8,,Core i7 7700HQ
+421,Intel,1.1,,Celeron Quad Core N3450
+422,Intel,2.9,,Core i7 7820HQ
+423,Intel,2.4,,Core i3 7100U
+424,Intel,2.9,,Core i7 7820HK
+425,Intel,2.8,,Core i7 7700HQ
+426,Intel,1.8,,Core i7 8550U
+427,Intel,2.8,,Core i7 7600U
+428,Intel,2.8,,Core i7 7700HQ
+429,Intel,1.1,,Celeron Dual Core N3350
+430,Intel,1.6,,Celeron Dual Core N3060
+431,Intel,2.7,,Core i7 7500U
+432,Intel,2.7,,Core i3 7130U
+433,Intel,2.8,,Core i7 7600U
+434,Intel,2.9,,Core i7 7820HQ
+435,AMD,3.2GHz,1600,Ryzen
+436,Intel,1.6,,Celeron Dual Core N3060
+437,Intel,1.3,,Core i7 7Y75
+438,Intel,2.7,,Core i7 7500U
+439,Intel,2.5,,Core i5 7200U
+440,AMD,2.5GHz,9220,A6-Series
+441,Intel,1.6,,Core i5 8250U
+442,Intel,2.5,,Core i5 7200U
+443,Intel,1.1,,Pentium Quad Core N4200
+444,Intel,2.8,,Core i7 7700HQ
+445,Intel,2.8,,Core i5 7440HQ
+446,Intel,2.5,,Core i5 7200U
+447,Intel,3,,Xeon E3-1505M V6
+448,Intel,2.5,,Core i5 7300HQ
+449,Intel,2.5,,Core i7 7660U
+450,Intel,2.5,,Core i5 7200U
+451,Intel,2.7,,Core i7 6820HQ
+452,Intel,2.9,,Core i7 7820HQ
+453,Intel,2.5,,Core i5 7200U
+454,Intel,1.8,,Core i7 8550U
+455,Intel,1.6,,Pentium Quad Core N3710
+456,Intel,2.7,,Core i7 7700HQ
+457,Intel,2.2,,Core M m3-7Y30
+458,Intel,2.5,,Core i7 7660U
+459,Intel,2,,Core i3 6006U
+460,Intel,2,,Core i3 6006U
+461,Intel,1.6,,Celeron Dual Core N3060
+462,Intel,2.5,,Core i5 7200U
+463,Intel,2.7,,Core i7 7500U
+464,Intel,2.9,,Core i7 7820HQ
+465,Intel,1.1,,Pentium Quad Core N4200
+466,Intel,2,,Core i3 6006U
+467,Intel,1.6,,Core i5 8250U
+468,Intel,2.8,,Core i7 7700HQ
+469,Intel,2.6,,Core i7 6600U
+470,Intel,1.8,,Core i7 8550U
+471,Intel,2.5,,Core i5 7200U
+472,Intel,1.2,,Core i5 7Y57
+473,Intel,1.6,,Core i5 8250U
+474,Intel,2.6,,Core i7 6700HQ
+475,Intel,2.3,,Core i3 6100U
+476,Intel,2.8,,Core i7 7700HQ
+477,Intel,2.5,,Core i5 7200U
+478,Intel,1.6,,Core i5 8250U
+479,Intel,2.5,,Core i5 7200U
+480,Intel,1.8,,Core i7 8550U
+481,Intel,2.4,,Core i3 7100U
+482,Intel,1.6,,Core i5 8250U
+483,Intel,1.44,,Atom x5-Z8350
+484,Intel,2.0,,Core i3 6006U
+485,Intel,1.6,,Core i5 8250U
+486,Intel,2.7,,Core i7 6820HQ
+487,Intel,2.8,,Core i7 7700HQ
+488,Intel,2.7,,Core i7 7500U
+489,Intel,2.7,,Core i7 7500U
+490,Intel,2.5,,Core i5 7200U
+491,Intel,2.7,,Core i7 7500U
+492,Intel,2.8,,Core i7 7700HQ
+493,AMD,2.5GHz,9620P,A10-Series
+494,Intel,2.6,,Core i7 6700HQ
+495,Intel,2.3,,Core i5 6200U
+496,Intel,1.8,,Core i7 8550U
+497,Intel,2.8,,Core i7 7600U
+498,Intel,2.4,,Core i3 7100U
+499,Intel,2.5,,Core i5 7200U
+500,Intel,1.1,,Celeron Dual Core N3350
+501,Intel,2.5,,Core i5 7200U
+502,Intel,1.6,,Core i5 8250U
+503,Intel,1.1,,Celeron Dual Core N3350
+504,Intel,1.6,,Celeron Dual Core N3060
+505,Intel,2.5,,Core i5 7200U
+506,Intel,2.7,,Core i7 7500U
+507,Intel,1.6,,Core i5 8250U
+508,Intel,2.7,,Core i7 7500U
+509,Intel,2.8,,Core i7 7700HQ
+510,Intel,2.5,,Core i5 7200U
+511,Intel,2.7,,Core i7 7500U
+512,Intel,2.5,,Core i5 7200U
+513,Intel,1.8,,Core i7 8550U
+514,Intel,1.8,,Core i7 8550U
+515,Intel,1.1,,Celeron Dual Core N3350
+516,Intel,1.6,,Core i5 8250U
+517,Intel,2.8,,Core i7 7700HQ
+518,Intel,2.5,,Core i5 7200U
+519,Intel,2.8,,Core i7 7700HQ
+520,Intel,2.8,,Core i7 7700HQ
+521,Intel,2.7,,Core i7 7500U
+522,Intel,2.6,,Core i5 7300U
+523,Intel,2,,Core i3 6006U
+524,Intel,1.6,,Core i5 8250U
+525,Intel,2.3,,Core i5 6200U
+526,Intel,2.7,,Core i7 7500U
+527,Intel,2,,Core i3 6006U
+528,Intel,2.5,,Core i5 7200U
+529,Intel,2.8,,Core i5 7440HQ
+530,Intel,2.8,,Core i7 7700HQ
+531,Intel,2.5,,Core i5 7200U
+532,Intel,2.7,,Core i7 7500U
+533,Intel,1.1,,Celeron Quad Core N3450
+534,Intel,2.5,,Core i5 7300HQ
+535,Intel,2.8,,Core i7 7600U
+536,Intel,1.6,,Core i5 8250U
+537,Intel,1.6,,Pentium Quad Core N3710
+538,Intel,2.8,,Core i7 7700HQ
+539,Intel,2.7,,Core i7 7500U
+540,Intel,1.8,,Core i7 8550U
+541,Intel,2,,Core i3 6006U
+542,Intel,2.7,,Core i7 7500U
+543,Intel,2.5,,Core i5 7300HQ
+544,AMD,1.8GHz,7110,E-Series
+545,Intel,2.4,,Core i3 7100U
+546,Intel,2.5,,Core i5 7200U
+547,Intel,2.3,,Core i5 6200U
+548,Intel,2,,Core i3 6006U
+549,Intel,2.7,,Core i7 7500U
+550,Intel,2,,Core i3 6006U
+551,Intel,2.5,,Core i5 7200U
+552,Intel,2.8,,Core i7 7700HQ
+553,Intel,2,,Core i3 6006U
+554,Intel,2.7,,Core i7 7500U
+555,Intel,1.1,,Celeron Dual Core N3350
+556,Intel,1.44,,Atom x5-Z8350
+557,Intel,2.7,,Core i7 7500U
+558,AMD,2.5GHz,A10-9620P,A10-Series
+559,Intel,2,,Core i3 6006U
+560,Intel,2.0,,Celeron Dual Core N3350
+561,Intel,2.7,,Core i3 7130U
+562,Intel,1.2,,Core M 6Y75
+563,Intel,2.8,,Core i7 7700HQ
+564,Intel,2.5,,Core i5 7300HQ
+565,Intel,1.6,,Core i5 8250U
+566,Intel,2.6,,Core i5 7300U
+567,Intel,2.5,,Core i5 7200U
+568,Intel,1.1,,Pentium Quad Core N4200
+569,Intel,2.5,,Core i5 7200U
+570,Intel,2.8,,Core i5 7440HQ
+571,Intel,1.6,,Pentium Quad Core N3710
+572,AMD,3GHz,A9-9420,A9-Series
+573,Intel,2.5,,Core i5 7200U
+574,Intel,1.6,,Core i5 8250U
+575,Intel,1.44,,Atom x5-Z8350
+576,Intel,2.7,,Core i7 7500U
+577,Intel,2.7,,Core i7 6820HK
+578,Intel,2.9,,Core i7 7820HK
+579,Intel,2.7,,Core i7 7500U
+580,Intel,1.1,,Celeron Quad Core N3450
+581,Intel,2.6,,Core i5 7300U
+582,Intel,2.4,,Core i3 7100U
+583,Intel,2.8,,Core i7 7600U
+584,Intel,1.6,,Celeron Dual Core N3060
+585,Intel,2.7,,Core i7 6820HK
+586,Intel,2.8,,Core i7 7700HQ
+587,Intel,2.6,,Core i7 6600U
+588,Intel,1.8,,Core i7 8550U
+589,Intel,2.5,,Core i5 7300HQ
+590,Intel,2.5,,Core i5 7200U
+591,AMD,3.6GHz,9720P,A12-Series
+592,Intel,1.0,,Core M 7Y30
+593,Intel,2.8,,Core i7 7700HQ
+594,Intel,2,,Core i3 6006U
+595,Intel,2.3,,Core i3 6100U
+596,Intel,2.7,,Core i7 7500U
+597,Intel,2.5,,Core i5 7300HQ
+598,Intel,2.5,,Core i5 7200U
+599,Intel,2.8,,Core i7 7700HQ
+600,Intel,2.7,,Core i7 7500U
+601,Intel,2.4,,Core i3 7100U
+602,Intel,1.1,,Celeron Quad Core N3450
+603,Intel,2.7,,Core i7 6820HK
+604,Intel,2,,Core i3 6006U
+605,Intel,2.8,,Core i7 7700HQ
+606,Intel,2.5,,Core i7 6500U
+607,Intel,2.5,,Core i5 7200U
+608,Intel,2.8,,Core i7 7700HQ
+609,Intel,1.6,,Pentium Quad Core N3710
+610,Intel,3.1,,Xeon E3-1535M v6
+611,Intel,2.6,,Core i7 6700HQ
+612,Intel,2.0,,Core i3 6006U
+613,Intel,2.0,,Core i3 6006U
+614,Intel,2.6,,Core i5 7300U
+615,Intel,2.8,,Core i7 7700HQ
+616,Intel,2.5,,Core i5 7200U
+617,Intel,2.7,,Core i7 7500U
+618,Intel,2.8,,Core i7 7700HQ
+619,Intel,1.6,,Celeron Quad Core N3160
+620,Intel,2.6,,Core i5 7300U
+621,Intel,2.3,,Core i5 6200U
+622,Intel,1.6,,Core i5 8250U
+623,Intel,2.5,,Core i5 7200U
+624,Intel,2.3,,Core i5 6200U
+625,Intel,2.7,,Core i7 7500U
+626,Intel,1.44,,Atom x5-Z8350
+627,Intel,2.5,,Core i5 7200U
+628,Intel,2.5,,Core i5 7200U
+629,Intel,2.8,,Core i7 7700HQ
+630,Intel,2.7,,Core i7 7500U
+631,Intel,2.8,,Core i7 7700HQ
+632,Intel,1.6,,Core i5 8250U
+633,Intel,2,,Core i3 6006U
+634,Intel,1.1,,Celeron Dual Core N3350
+635,Intel,2.5,,Core i5 7300HQ
+636,Intel,1.6,,Core i5 8250U
+637,Intel,1.6,,Celeron Dual Core N3060
+638,Intel,2.7,,Core i7 7500U
+639,Intel,2.8,,Core i7 7700HQ
+640,Intel,2.8,,Core i7 7700HQ
+641,AMD,3GHz,9420,A9-Series
+642,Intel,2.7,,Core i7 7500U
+643,Intel,2.8,,Core i7 7700HQ
+644,Intel,2,,Core i3 6006U
+645,Intel,1.6,,Celeron Dual Core N3060
+646,Intel,2.5,,Core i5 7200U
+647,Intel,2.8,,Core i7 7700HQ
+648,Intel,2.3,,Core i5 6200U
+649,Intel,2.7,,Core i7 7500U
+650,Intel,2.7,,Core i7 6820HK
+651,Intel,2.5,,Core i5 7300HQ
+652,Intel,1.6,,Core i5 8250U
+653,Intel,2.8,,Core i7 7700HQ
+654,Intel,2,,Core i3 6006U
+655,Intel,2.5,,Core i5 7200U
+656,Intel,1.8,,Core i7 8550U
+657,Intel,1.8,,Core i7 8550U
+658,Intel,2.6,,Core i7 6700HQ
+659,Intel,2.8,,Core i7 7700HQ
+660,Intel,2.4,,Core i5 6300U
+661,Intel,1.1,,Celeron Dual Core N3350
+662,Intel,2.3,,Core i5 6200U
+663,Intel,2,,Core i3 6006U
+664,Intel,2.8,,Core i7 7700HQ
+665,Intel,2.1,,Core i3 6100U
+666,Intel,2.5,,Core i5 7200U
+667,Intel,2.7,,Core i7 7500U
+668,Intel,2.5,,Core i5 7200U
+669,Intel,2,,Core i3 6006U
+670,Intel,2.8,,Core i7 7600U
+671,Intel,2.5,,Core i5 7200U
+672,Intel,2.5,,Core i5 7200U
+673,AMD,2.2GHz,E2-9000,E-Series
+674,Intel,2.4,,Core i3 7100U
+675,Intel,2.8,,Core i7 7700HQ
+676,Intel,2.5,,Core i5 7200U
+677,Intel,1.1,,Celeron Dual Core N3350
+678,Intel,1.8,,Core i7 8550U
+679,Intel,2.5,,Core i5 7300HQ
+680,Intel,2.5,,Core i5 7300HQ
+681,Intel,1.1,,Celeron Dual Core N3350
+682,Intel,2.5,,Core i5 7300HQ
+683,Intel,2,,Core i3 6006U
+684,Intel,1.8,,Core i7 8550U
+685,Intel,2.9,,Core i7 7820HK
+686,Intel,2.5,,Core i5 7200U
+687,Intel,2,,Core i3 6006U
+688,AMD,2.4GHz,9600P,A10-Series
+689,Intel,1.6,,Celeron Dual Core 3855U
+690,Intel,1.6,,Celeron Dual Core 3855U
+691,Intel,2.5,,Core i5 7200U
+692,Intel,2.8,,Core i7 7700HQ
+693,Intel,2.7,,Core i7 7500U
+694,Intel,2.5,,Core i5 7200U
+695,Intel,1.6,,Celeron Dual Core N3050
+696,Intel,2.7,,Core i7 7500U
+697,Intel,0.9,,Core M M3-6Y30
+698,Intel,2.5,,Core i7 6500U
+699,Intel,2.7,,Core i7 7500U
+700,Intel,2.5,,Core i5 7300HQ
+701,AMD,2.9GHz,9420,A9-Series
+702,AMD,3.6GHz,9720P,A12-Series
+703,Intel,2.5,,Core i5 7200U
+704,Intel,2,,Core i3 6006U
+705,Intel,2.5,,Core i5 7200U
+706,Intel,1.6,,Core i5 8250U
+707,Intel,2.5,,Core i7 6500U
+708,Intel,2.3,,Core i5 6300HQ
+709,AMD,2.5GHz,9620P,A10-Series
+710,Intel,2.8,,Core i7 7700HQ
+711,Intel,2.8,,Core i5 7440HQ
+712,Intel,2.5,,Core i5 7200U
+713,Intel,1.1,,Celeron Dual Core N3350
+714,Intel,2.6,,Core i5 7300U
+715,Intel,2.5,,Core i5 7200U
+716,Intel,2.6,,Core i5 7300U
+717,AMD,2GHz,7310,A6-Series
+718,Intel,1.92,,Atom Z8350
+719,Intel,2.7,,Core i7 7500U
+720,Intel,2.5,,Core i7 6500U
+721,Intel,2.5,,Core i5 7200U
+722,Intel,2.5,,Core i5 7200U
+723,Intel,2.8,,Core i7 7700HQ
+724,Intel,2.8,,Core i7 7700HQ
+725,Intel,2.5,,Core i5 7200U
+726,Intel,1.6,,Core i5 8250U
+727,Intel,2.4,,Core i3 7100U
+728,Intel,2.5,,Core i5 7200U
+729,AMD,3GHz,9420,A9-Series
+730,Intel,2.6,,Core i7 6700HQ
+731,Intel,2.5,,Core i5 7200U
+732,AMD,3GHz,A9-9420,A9-Series
+733,Intel,2.5,,Core i5 7200U
+734,Intel,2.5,,Core i5 7200U
+735,Intel,2.7,,Core i7 7500U
+736,Intel,2.8,,Core i7 7700HQ
+737,Intel,1.6,,Core i5 8250U
+738,Intel,2.8,,Core i7 7700HQ
+739,Intel,2,,Core i3 6006U
+740,Intel,2.7,,Core i7 7500U
+741,Intel,2,,Core i3 6006U
+742,Intel,2.5,,Core i5 7200U
+743,Intel,2.5,,Core i5 7200U
+744,Intel,2.8,,Core i7 7600U
+745,Intel,1.6,,Celeron Dual Core N3060
+746,Intel,2.7,,Core i7 7500U
+747,Intel,2,,Core i3 6006U
+748,Intel,2.5,,Core i5 7200U
+749,Intel,2.9,,Xeon E3-1535M v5
+750,Intel,1.6,,Celeron Dual Core N3060
+751,Intel,2.4,,Core i5 6300U
+752,Intel,2.3,,Core i5 6300HQ
+753,Intel,2.3,,Core i5 6200U
+754,Intel,2.7,,Core i7 7500U
+755,Intel,1.8,,Core i5 6260U
+756,Intel,2.5,,Core i5 7300HQ
+757,Intel,2.6,,Core i7 6700HQ
+758,Intel,2.8,,Core i7 7700HQ
+759,Intel,2.5,,Core i5 7200U
+760,Intel,2.8,,Core i7 7700HQ
+761,Intel,2.8,,Core i7 7600U
+762,Intel,1.2,,Core i5 7Y57
+763,Intel,2.5,,Core i5 7200U
+764,Intel,2,,Core i3 6006U
+765,Intel,2.3,,Core i5 6200U
+766,Intel,1.1,,Pentium Quad Core N4200
+767,Intel,2.6,,Core i7 6700HQ
+768,Intel,2.7,,Core i7 7500U
+769,Intel,1.1,,Pentium Quad Core N4200
+770,Intel,2.7,,Core i7 7500U
+771,Intel,2.7,,Core i7 7500U
+772,Intel,2.3,,Core i5 6200U
+773,Intel,2.8,,Core i7 7700HQ
+774,Intel,2.3,,Core i5 6200U
+775,Intel,2.7,,Core i7 7500U
+776,Intel,2.7,,Core i7 6820HQ
+777,Intel,2.4,,Core i3 7100U
+778,Intel,2.8,,Core i7 7700HQ
+779,Intel,1.1,,Pentium Dual Core N4200
+780,Intel,2.8,,Core i7 7700HQ
+781,Intel,2.6,,Core i7 6700HQ
+782,Intel,2.6,,Core i7 6600U
+783,Intel,1.6,,Celeron Quad Core N3710
+784,Intel,2.7,,Core i7 7500U
+785,Intel,2.8,,Core i7 7700HQ
+786,Intel,2.5,,Core i5 7300HQ
+787,Intel,2.8,,Core i7 7700HQ
+788,Intel,2.8,,Core i7 7700HQ
+789,Intel,2.5,,Core i5 7300HQ
+790,Intel,2.8,,Core i7 7700HQ
+791,Intel,1.1,,Celeron Dual Core N3350
+792,Intel,2.7,,Core i7 7500U
+793,Intel,2.5,,Core i5 7200U
+794,Intel,1.2,,Core M
+795,Intel,2.5,,Core i5 7200U
+796,Intel,1.1,,Celeron Dual Core N3350
+797,Intel,2.5,,Core i5 7200U
+798,Intel,2.7,,Core i7 7500U
+799,Intel,2,,Core i3 6006U
+800,Intel,2.8,,Core i7 7700HQ
+801,Intel,2.5,,Core i5 7200U
+802,Intel,2.5,,Core i5 7200U
+803,Intel,2.5,,Core i5 7300HQ
+804,Intel,1.1,,Pentium Quad Core N4200
+805,Intel,2.6,,Core i5 7300U
+806,Intel,2.3,,Core i5 6200U
+807,AMD,2.5GHz,9700P,A12-Series
+808,Intel,2.8,,Core i7 7700HQ
+809,Intel,2.5,,Core i5 7200U
+810,Intel,2.8,,Core i7 7700HQ
+811,Intel,2.8,,Core i7 7700HQ
+812,Intel,2.5,,Core i5 7200U
+813,Intel,2.7,,Core i7 7500U
+814,Intel,2.5,,Core i5 7200U
+815,Intel,2.7,,Core i7 7500U
+816,Intel,2.5,,Core i7 7500U
+817,Intel,1.6,,Celeron Dual Core N3060
+818,Intel,2.8,,Core i7 7700HQ
+819,Intel,2.3,,Core i5 6200U
+820,Intel,2,,Core i3 6006U
+821,Intel,2.5,,Core i5 7200U
+822,Intel,2.7,,Core i7 7500U
+823,Intel,2.5,,Core i5 7300HQ
+824,Intel,2.5,,Core i5 7200U
+825,Intel,2.1,,Pentium Dual Core 4405U
+826,Intel,2.5,,Core i5 7200U
+827,Intel,2,,Core i3 6006U
+828,Intel,1.6,,Celeron Dual Core N3060
+829,Intel,2.4,,Core i3 7100U
+830,Intel,2.9,,Core i7 7820HK
+831,Intel,2.6,,Core i7 6600U
+832,Intel,2.5,,Core i5 7200U
+833,Intel,2.3,,Core i5 6200U
+834,Intel,2.6,,Core i5 7300U
+835,Intel,2.8,,Core i7 7700HQ
+836,Intel,2.8,,Core i7 7700HQ
+837,Intel,2.4,,Core i3 7100U
+838,Intel,1.6,,Celeron Quad Core N3160
+839,Intel,2.5,,Core i5 7200U
+840,Intel,2.6,,Core i7 6700HQ
+841,Intel,2.8,,Core i7 7700HQ
+842,Intel,2.5,,Core i5 7200U
+843,Intel,2.5,,Core i5 7200U
+844,Intel,2.5,,Core i7 6500U
+845,Intel,2.7,,Core i7 7500U
+846,Intel,1.1,,Celeron Dual Core N3350
+847,Intel,2.3,,Core i5 6200U
+848,Intel,2.5,,Core i5 7200U
+849,Intel,2.5,,Core i7 6500U
+850,Intel,1.6,,Celeron Dual Core N3060
+851,Intel,2.8,,Core i7 7700HQ
+852,Intel,2.7,,Core i7 7500U
+853,Intel,2.8,,Core i7 7700HQ
+854,Intel,2.7,,Core i7 7500U
+855,Intel,2.5,,Core i5 7200U
+856,Intel,1.1,,Pentium Quad Core N4200
+857,Intel,2.8,,Core i7 7600U
+858,Intel,2.3,,Core i5 6200U
+859,Intel,2.0,,Core i3 6006U
+860,Intel,2.5,,Core i5 7200U
+861,Intel,2.6,,Core i5 7300U
+862,Intel,2.5,,Core i5 7200U
+863,Intel,2.5,,Core i5 7300HQ
+864,Intel,2.5,,Core i7 7660U
+865,Intel,2.3,,Core i5 6200U
+866,Intel,2.3,,Core i5 6200U
+867,Intel,2.7,,Core i7 7500U
+868,Intel,2.5,,Core i5 7200U
+869,Intel,2.8,,Core i7 7700HQ
+870,Intel,2.5,,Core i5 7200U
+871,Intel,2,,Core i3 6006U
+872,Intel,2.7,,Core i7 7500U
+873,Intel,2.4,,Core i3 7100U
+874,Intel,2.7,,Core i7 7500U
+875,Intel,2.8,,Core i7 7600U
+876,Intel,1.1,,Pentium Quad Core N4200
+877,Intel,2.3,,Core i5 6200U
+878,Intel,2.5,,Core i5 7200U
+879,Intel,2.5,,Core i5 7200U
+880,Intel,2.5,,Core i5 7200U
+881,Intel,2.5,,Core i5 7200U
+882,Intel,1.1,,Celeron Dual Core N3350
+883,Intel,2.5,,Core i7 6500U
+884,Intel,1.6,,Pentium Quad Core N3710
+885,Intel,2.5,,Core i5 7200U
+886,Intel,2.0,,Core i3 6006U
+887,Intel,2.5,,Core i5 7300HQ
+888,Intel,1.6,,Celeron Dual Core N3060
+889,AMD,2.2GHz,7210,A4-Series
+890,Intel,2.5,,Core i5 7200U
+891,Intel,2.7,,Core i7 7500U
+892,Intel,2.7,,Core i7 7500U
+893,Intel,2.5,,Core i5 7200U
+894,Intel,2.6,,Core i7 6700HQ
+895,Intel,2.5,,Core i5 7200U
+896,Intel,2.8,,Core i7 7700HQ
+897,Intel,2.7,,Core i7 7500U
+898,Intel,2.0,,Core i3 6006U
+899,Intel,2.6,,Core i5 7300U
+900,Intel,1.3,,Core i7 7Y75
+901,Intel,2.7,,Core i7 6820HK
+902,Intel,1.3,,Core i7 7Y75
+903,Intel,2.7,,Core i7 7500U
+904,Intel,2.5,,Core i5 7200U
+905,Intel,2.7,,Core i7 7500U
+906,Intel,2.7,,Core i7 7500U
+907,Intel,1.5,,Celeron Dual Core 3205U
+908,Intel,2.3,,Core i5 6300HQ
+909,Intel,2.7,,Core i7 7500U
+910,Intel,2.8,,Core i5 7440HQ
+911,Intel,1.2,,Core M 6Y75
+912,Intel,2.7,,Core i7 7500U
+913,Intel,2.7,,Core i7 7500U
+914,Intel,2.4,,Core i3 7100U
+915,Intel,2.5,,Core i5 7200U
+916,Intel,2.5,,Core i5 7200U
+917,Intel,2.8,,Core i7 7700HQ
+918,Intel,2.8,,Core i7 7700HQ
+919,Intel,2.5,,Core i5 7300HQ
+920,Intel,2.5,,Core i5 7200U
+921,Intel,2.5,,Core i7 6500U
+922,Intel,2.7,,Core i7 7500U
+923,Intel,2.6,,Core i7 6600U
+924,Intel,2.5,,Core i5 7200U
+925,Intel,2.3,,Core i5 6200U
+926,Intel,2.7,,Core i7 7500U
+927,Intel,2.3,,Core i5 6200U
+928,Intel,2.5,,Core i5 7200U
+929,Intel,2.3,,Core i5 6200U
+930,Intel,1.1,,Pentium Quad Core N4200
+931,Intel,2.3,,Core i5 6200U
+932,Intel,1.6,,Celeron Dual Core N3060
+933,Intel,2.2,,Core i7 6560U
+934,Intel,2.3,,Core i5 6200U
+935,Intel,2.3,,Core i5 6200U
+936,Intel,2.0,,Core i3 6006U
+937,Intel,2.8,,Core i7 7700HQ
+938,Intel,2.5,,Core i5 7200U
+939,Intel,2.7,,Core i7 6820HK
+940,Intel,2.3,,Core i5 6300HQ
+941,Intel,1.6,,Pentium Quad Core N3710
+942,Intel,2.5,,Core i5 7200U
+943,Intel,2.3,,Core i5 6200U
+944,Intel,1.2,,Core M m7-6Y75
+945,AMD,2.1GHz,8800P,FX
+946,Intel,2.5,,Core i5 7200U
+947,Intel,2.7,,Core i7 7500U
+948,Intel,2.0,,Core i3 6006U
+949,Intel,1.6,,Celeron Dual Core N3060
+950,Intel,2.7,,Core i7 6820HQ
+951,Intel,2.8,,Core i7 7600U
+952,Intel,2.3,,Core i5 6200U
+953,Intel,1.2,,Core M M7-6Y75
+954,Intel,2.6,,Core i7 6600U
+955,Intel,2.8,,Core i7 7700HQ
+956,Intel,1.2,,Core i5 7Y54
+957,Intel,1.1,,Pentium Quad Core N4200
+958,Intel,2.5,,Core i7 6500U
+959,Intel,1.6,,Celeron Dual Core N3060
+960,Intel,2.4,,Core i5 6300U
+961,Intel,2.6,,Core i5 7300U
+962,Intel,2.5,,Core i5 7200U
+963,Intel,2.7,,Core i7 7500U
+964,Intel,2.50,,Core i5 7200U
+965,Intel,2.0,,Core i3 6006U
+966,Intel,2.5,,Core i5 7200U
+967,Intel,2.4,,Core i3 7100U
+968,Intel,2.8,,Core i7 7700HQ
+969,Intel,2.5,,Core i5 7200U
+970,Intel,1.3,,Core i7 7Y75
+971,Intel,2.6,,Core i7 6600U
+972,Intel,2.6,,Core i7 6700HQ
+973,Intel,2.3,,Core i5 6200U
+974,Intel,2.8,,Core i7 7700HQ
+975,Intel,2.70,,Core i5 7200U
+976,Intel,2.3,,Core i5 6200U
+977,Intel,2.7,,Core i7 7500U
+978,Intel,2.7,,Core i7 7500U
+979,Intel,2.8,,Core i7 7700HQ
+980,Intel,2.7,,Core i7 7500U
+981,Intel,2.3,,Core i5 6200U
+982,AMD,3.6GHz,9720P,A12-Series
+983,Intel,2.3,,Core i5 6200U
+984,Intel,2.3,,Core i5 6200U
+985,Intel,2.5,,Core i5 7200U
+986,Intel,2.5,,Core i5 7200U
+987,Intel,2.8,,Core i7 7700HQ
+988,Intel,2.7,,Core i7 7500U
+989,Intel,2.5,,Core i5 7200U
+990,Intel,1.2,,Core M 6Y75
+991,Intel,2,,Core i3 6006U
+992,Intel,1.1,,Celeron Dual Core N3350
+993,Intel,2.3,,Core i5 6200U
+994,Intel,2.5,,Core i5 7200U
+995,Intel,2.5,,Core i5 7200U
+996,Intel,2.7,,Core i7 7500U
+997,Intel,1.1,,Pentium Quad Core N4200
+998,Intel,2.8,,Core i7 7700HQ
+999,Intel,2.7,,Core i7 7500U
+1000,Intel,2.8,,Core i7 7700HQ
+1001,Intel,2.5,,Core i5 7200U
+1002,Intel,2.4,,Core i3 7100U
+1003,Intel,2.5,,Core i5 7200U
+1004,Intel,2.3,,Core i5 6200U
+1005,Intel,2.4,,Core i5 6300U
+1006,Intel,2.5,,Core i5 7200U
+1007,Intel,2.6,,Core i7 6600U
+1008,Intel,2.5,,Core i5 7200U
+1009,Intel,2.4,,Core i3 7100U
+1010,Intel,2.5,,Core i5 7300HQ
+1011,Intel,2.5,,Core i5 7200U
+1012,Intel,2.5,,Core i5 7200U
+1013,Intel,2.5,,Core i7 6500U
+1014,Intel,2.4,,Core i3 7100U
+1015,Intel,2.3,,Core i5 6200U
+1016,Intel,2.4,,Core i3 7100U
+1017,Intel,2.7,,Core i7 6820HQ
+1018,Intel,2.3,,Core i5 6200U
+1019,Intel,2.5,,Core i7 6500U
+1020,Intel,2.3,,Core i3 6100U
+1021,Intel,2.3,,Core i5 6200U
+1022,Intel,2.5,,Core i5 7200U
+1023,Intel,2.7,,Core i7 7500U
+1024,Intel,2.4,,Core i5 6300U
+1025,Intel,2.5,,Core i5 7200U
+1026,Intel,2.5,,Core i5 7200U
+1027,Intel,2.5,,Core i5 7200U
+1028,Intel,2.5,,Core i5 7200U
+1029,Intel,2.5,,Core i5 7200U
+1030,Intel,2.5,,Core i5 7200U
+1031,AMD,3GHz,9420,A9-Series
+1032,Intel,2.8,,Core i7 7700HQ
+1033,Intel,2.3,,Core i5 6200U
+1034,Intel,2.5,,Core i7 6500U
+1035,Intel,2.5,,Core i7 6500U
+1036,Intel,2.5,,Core i5 7200U
+1037,Intel,2.6,,Core i7 6600U
+1038,Intel,2.4,,Core i5 6300U
+1039,Intel,2.5,,Core i5 7200U
+1040,Intel,2.5,,Core i7 6500U
+1041,Intel,1.44,,Atom X5-Z8350
+1042,Intel,2.5,,Core i7 6500U
+1043,Intel,2.3,,Core i5 6200U
+1044,Intel,2.3,,Core i5 6200U
+1045,Intel,2.4,,Core i5 6300U
+1046,Intel,2.3,,Core i5 6200U
+1047,Intel,2.7,,Core i7 6820HK
+1048,Intel,2.6,,Core i7 6700HQ
+1049,Intel,1.6,,Celeron Dual Core N3060
+1050,Intel,2.6,,Core i7 6600U
+1051,Intel,2.7,,Core i7 7500U
+1052,Intel,2.7,,Core i5 7200U
+1053,Intel,2.5,,Core i5 7200U
+1054,Intel,2.7,,Core i7 7500U
+1055,Intel,2.3,,Core i3 6100U
+1056,Intel,2.5,,Core i5 7200U
+1057,AMD,2.2GHz,7410,A8-Series
+1058,Intel,2.7,,Core i7 7500U
+1059,Intel,2.6,,Core i7 6700HQ
+1060,Intel,2.7,,Core i7 7500U
+1061,Intel,2.6,,Core i7 6700HQ
+1062,Intel,2.5,,Core i5 7200U
+1063,Intel,2.7,,Core i7 7500U
+1064,Intel,2.6,,Core i7 6700HQ
+1065,Intel,2.7,,Core i7 7500U
+1066,Intel,2.7,,Core i7 6820HK
+1067,Intel,2.5,,Core i7 6500U
+1068,Intel,2.6,,Core i7 6700HQ
+1069,Intel,1.1,,Core M
+1070,Intel,2.3,,Core i3 6100U
+1071,Intel,2.3,,Core i5 6200U
+1072,Intel,2.3,,Core i5 6200U
+1073,Intel,2.7,,Core i7 7500U
+1074,Intel,2.5,,Core i7 6500U
+1075,Intel,2.3,,Core i5 6200U
+1076,Intel,2.3,,Core i5 6300HQ
+1077,Intel,2.8,,Core i7 7700HQ
+1078,Intel,2.3,,Core i5 6200U
+1079,Intel,2.3,,Core i5 6200U
+1080,Intel,1.2,,Core M 6Y75
+1081,Intel,2.7,,Core i7 6820HK
+1082,Intel,1.44,,Atom x5-Z8550
+1083,Intel,2.7,,Core i7 7500U
+1084,Intel,2.5,,Core i5 7200U
+1085,Intel,2.3,,Core i5 6200U
+1086,Intel,2.5,,Core i7 6500U
+1087,Intel,2.3,,Core i5 6200U
+1088,Intel,1.5,,Pentium Dual Core 4405Y
+1089,AMD,2.2GHz,7410,A8-Series
+1090,Intel,1.6,,Pentium Quad Core N3700
+1091,Intel,2,,Core i3 6006U
+1092,Intel,2.8,,Core i7 7700HQ
+1093,Intel,1.6,,Core i5 8250U
+1094,Intel,2.3,,Core i5 6200U
+1095,Intel,2.5,,Core i5 7200U
+1096,Intel,2.5,,Core i5 7200U
+1097,Intel,2.6,,Core i7 6700HQ
+1098,Intel,1.6,,Pentium Quad Core N3710
+1099,Intel,2.6,,Core i7 6700HQ
+1100,Intel,2.3,,Core i3 6100U
+1101,Intel,2.3,,Core i3 6100U
+1102,Intel,1.5,,Celeron Dual Core 3205U
+1103,Intel,2.6,,Core i7 6700HQ
+1104,Intel,2.8,,Core i7 7700HQ
+1105,Intel,2.3,,Core i5 6200U
+1106,Intel,2.6,,Core i7 6700HQ
+1107,Intel,2.3,,Core i5 6200U
+1108,AMD,2.5GHz,9220,A6-Series
+1109,Intel,2.6,,Core i7 6700HQ
+1110,Intel,1.1,,Core M 6Y54
+1111,Intel,2.3,,Core i5 6200U
+1112,Intel,2.0,,Core i3 6006U
+1113,Intel,2.5,,Core i7 6500U
+1114,Intel,1.44,,Atom x5-Z8550
+1115,Intel,2.4,,Core i7 7560U
+1116,Intel,2.7,,Core i7 6820HK
+1117,Intel,2.5,,Core i7 6500U
+1118,Intel,2.7,,Core i7 7500U
+1119,Intel,2.6,,Core i7 6700HQ
+1120,Intel,1.44,,Atom X5-Z8350
+1121,Intel,2.3,,Core i5 6200U
+1122,Intel,2.3,,Core i5 6200U
+1123,Intel,2.3,,Core i5 6200U
+1124,Intel,2.4,,Core i3 7100U
+1125,Intel,2.5,,Core i7 6500U
+1126,Intel,1.44,,Atom x5-Z8550
+1127,Intel,2.4,,Core i5 6300U
+1128,Intel,2.5,,Core i5 7300HQ
+1129,Intel,2.3,,Core i5 6300HQ
+1130,Intel,2.7,,Core i7 7500U
+1131,Intel,2.6,,Core i7 6600U
+1132,Intel,1.1,,Celeron Dual Core N3350
+1133,Intel,2.7,,Core i7 7500U
+1134,Intel,2.5,,Core i5 7200U
+1135,Intel,2.5,,Core i7 6500U
+1136,Intel,2.6,,Core i7 6700HQ
+1137,Intel,2.5,,Core i5 7200U
+1138,Intel,2.7,,Core i7 6820HQ
+1139,Intel,2.5,,Core i7 6500U
+1140,Intel,2.6,,Core i7 6600U
+1141,Intel,2.8,,Core i7 7700HQ
+1142,Intel,2.4,,Core i5 6300U
+1143,Intel,2.6,,Core i7 6700HQ
+1144,Intel,2.6,,Core i7 6600U
+1145,Intel,2.6,,Core i7 6700HQ
+1146,Intel,2.50,,Core i7 6500U
+1147,Intel,2.7,,Core i7 7500U
+1148,Intel,2.3,,Core i5 6200U
+1149,Intel,2.5,,Core i7 6500U
+1150,Intel,2.0,,Core i3 6006U
+1151,AMD,1.8GHz,7110,E-Series
+1152,Intel,2.3,,Core i5 6200U
+1153,Intel,2.8,,Core i7 7700HQ
+1154,Intel,2.3,,Core i5 6300HQ
+1155,AMD,2.5GHz,A6-9220,A6-Series
+1156,Intel,2.8,,Core i7 7700HQ
+1157,Intel,2.6,,Core i7 6600U
+1158,Intel,2.3,,Core i5 6200U
+1159,Intel,2.6,,Core i7 6600U
+1160,Intel,2.6,,Core i7 6600U
+1161,Intel,2.6,,Core i7 6700HQ
+1162,Intel,2.8,,Core i7 7700HQ
+1163,Intel,2.0,,Core i3 6006U
+1164,Intel,2.3,,Core i5 6200U
+1165,Intel,2.8,,Core i7 7700HQ
+1166,Intel,2.5,,Core i5 7200U
+1167,Intel,2,,Core i3 6006U
+1168,Intel,1.6,,Celeron Dual Core N3060
+1169,Intel,2.7,,Core i7 7500U
+1170,Intel,2.5,,Core i7 6500U
+1171,Intel,1.8,,Core i7 8550U
+1172,Intel,1.6,,Celeron Dual Core N3050
+1173,Intel,2.3,,Core i5 6200U
+1174,Intel,2.7,,Core i7 7500U
+1175,Intel,2.4,,Core i3 7100U
+1176,Intel,2.5,,Core i7 6500U
+1177,Intel,2.6,,Core i7 6700HQ
+1178,Intel,2.6,,Core i7 6700HQ
+1179,Intel,2.3,,Core i3 6100U
+1180,Intel,2.3,,Core i5 6200U
+1181,Intel,2.7,,Core i7 7500U
+1182,Intel,2.7,,Core i7 7500U
+1183,Intel,2,,Celeron Dual Core N3350
+1184,Intel,2.6,,Core i7 6700HQ
+1185,Intel,2.6,,Core i7 6700HQ
+1186,Intel,2.7,,Core i7 7500U
+1187,Intel,2.5,,Core i5 7200U
+1188,Intel,2.4,,Core i5 6300U
+1189,Intel,2.8,,Core i7 7700HQ
+1190,Intel,2.5,,Core i5 7300HQ
+1192,Intel,2.5,,Core i5 7200U
+1193,Intel,1.1,,Core M
+1194,Intel,2.5,,Core i5 7200U
+1195,Intel,2.8,,Core i7 7700HQ
+1196,Intel,2,,Core i3 6006U
+1197,Intel,2.6,,Core i7 6700HQ
+1198,Intel,2,,Celeron Dual Core N3350
+1199,Intel,2.8,,Core i7 7700HQ
+1200,Intel,2.0,,Core i3 6006U
+1201,Intel,2.5,,Core i7 6500U
+1202,Intel,1.8,,Core i7 8550U
+1203,Intel,2.7,,Core i7 7500U
+1204,Intel,2.6,,Core i7 6700HQ
+1205,Intel,2.5,,Core i5 7200U
+1206,Intel,2.5,,Core i5 7200U
+1207,AMD,2.2GHz,9000,E-Series
+1208,Intel,2.0,,Core i3 6006U
+1209,Intel,2.8,,Core i7 7700HQ
+1210,Intel,1.2,,Core M
+1211,Intel,2.8,,Core i7 7700HQ
+1212,Intel,2.6,,Core i7 6700HQ
+1213,Intel,2.5,,Core i5 7200U
+1214,Intel,2.8,,Core i7 7700HQ
+1215,Intel,1.5,,Celeron Dual Core 3205U
+1216,Intel,2,,Core i3 6006U
+1217,Intel,2.5,,Core i5 7200U
+1218,Intel,2.6,,Core i7 6700HQ
+1219,Intel,1.3,,Core i7 7Y75
+1220,Intel,2.6,,Core i7 6600U
+1221,Intel,2.6,,Core i7 6700HQ
+1222,AMD,2.7GHz,9720P,A12-Series
+1223,Intel,2.4,,Core i5 6300U
+1224,Intel,2.4,,Core i3 7100U
+1225,Intel,1.6,,Pentium Quad Core N3710
+1226,Intel,2.7,,Core i7 7500U
+1227,Intel,2.5,,Core i5 7200U
+1228,Intel,2.6,,Core i7 6700HQ
+1229,Intel,2.8,,Core i7 7700HQ
+1230,Intel,2.50,,Core i7 6500U
+1231,Intel,2.8,,Core i7 7700HQ
+1232,Intel,2.4,,Core i3 7100U
+1233,Intel,2.8,,Core i7 7700HQ
+1234,Intel,1.6,,Core i5
+1235,Intel,2,,Core i3 6006U
+1236,Intel,2.5,,Core i7 6500U
+1237,Intel,2.3,,Core i5 6200U
+1238,Intel,2.6,,Core i7 6700HQ
+1239,Intel,2.7,,Core i7 7500U
+1240,AMD,3.6GHz,9720P,A12-Series
+1241,Intel,2.5,,Core i7 6500U
+1242,Intel,2.0,,Core i3 6006U
+1243,Intel,2.7,,Core i7 7500U
+1244,Intel,2.3,,Core i5 6200U
+1245,Intel,2.8,,Core i7 7700HQ
+1246,Intel,2.5,,Core i5 7200U
+1247,Intel,2.6,,Core i7 6700HQ
+1248,Intel,2.5,,Core i5 7200U
+1249,Intel,1.2,,Core i5 7Y54
+1250,Intel,1.6,,Pentium Quad Core N3710
+1251,AMD,2.5GHz,9220,A6-Series
+1252,Intel,2.3,,Core i3 6100U
+1253,Intel,2.3,,Core i5 6200U
+1254,Intel,1.6,,Pentium Quad Core N3700
+1255,Intel,1.1,,Celeron Dual Core N3350
+1256,Intel,2.6,,Core i7 6700HQ
+1257,Intel,2,,Core i3 6006U
+1258,Intel,2.5,,Core i7 6500U
+1259,Intel,2.6,,Core i7 6700HQ
+1260,Intel,2.3,,Core i5 6200U
+1261,Intel,0.9,,Core M 6Y30
+1262,Intel,2.4,,Core i3 7100U
+1263,Intel,1.6,,Celeron Dual Core N3060
+1264,Intel,1.6,,Celeron Dual Core N3050
+1265,Intel,2.6,,Core i7 6700HQ
+1266,AMD,2.9GHz,9410,A9-Series
+1267,Intel,2.7,,Core i7 7500U
+1268,Intel,1.6,,Celeron Dual Core N3060
+1269,Intel,2.5,,Core i7 6500U
+1270,Intel,2.5,,Core i7 6500U
+1271,Intel,2.5,,Core i7 6500U
+1272,Intel,1.6,,Celeron Dual Core N3050
+1273,Intel,2.5,,Core i7 6500U
+1274,Intel,1.6,,Celeron Dual Core N3050
+1275,Intel,0.9,,Core M 6Y30
+1276,Intel,2.4,,Core i3 7100U
+1277,Intel,1.6,,Celeron Dual Core N3060
+1278,Intel,1.6,,Celeron Dual Core N3050
+1279,Intel,2.6,,Core i7 6700HQ
+1280,AMD,2.9GHz,9410,A9-Series
+1281,Intel,2.7,,Core i7 7500U
+1282,Intel,1.6,,Celeron Dual Core N3060
+1283,Intel,2.5,,Core i7 6500U
+1284,Intel,2.5,,Core i7 6500U
+1285,Intel,2.5,,Core i7 6500U
+1286,Intel,1.6,,Celeron Dual Core N3050
+1287,Intel,2.5,,Core i7 6500U
+1288,Intel,1.6,,Celeron Dual Core N3050
+1289,Intel,0.9,,Core M 6Y30
+1290,Intel,2.4,,Core i3 7100U
+1291,Intel,1.6,,Celeron Dual Core N3060
+1292,Intel,1.6,,Celeron Dual Core N3050
+1293,Intel,2.6,,Core i7 6700HQ
+1294,AMD,2.9GHz,9410,A9-Series
+1295,Intel,2.7,,Core i7 7500U
+1296,Intel,1.6,,Celeron Dual Core N3060
+1297,Intel,2.5,,Core i7 6500U
+1298,Intel,2.5,,Core i7 6500U
+1299,Intel,2.5,,Core i7 6500U
+1300,Intel,1.6,,Celeron Dual Core N3050
+1301,Intel,2.5,,Core i7 6500U
+1302,Intel,1.6,,Celeron Dual Core N3050
